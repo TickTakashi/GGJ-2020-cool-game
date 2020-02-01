@@ -10,7 +10,7 @@ class Board:
         bot.pos[0] = x
         bot.pos[1] = y
 
-        # why you no work
+        # why you no work dsjkfldasjlf
 
     # Get a list of valid directional moves for bot
     def get_valid_moves(self, bot):
