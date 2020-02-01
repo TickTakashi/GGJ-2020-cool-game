@@ -18,6 +18,7 @@ class Bot:
     def __init__(self):
         self.ticks_between_moves = 0
         self.sleep = 0
+        self.pos = [-100,-100]
 
 
     def tick(self, state):
